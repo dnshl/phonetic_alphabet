@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = PhoneticAlphabet::VERSION
   spec.authors       = ["Dennis Hall"]
   spec.email         = ["dennis@dennishall.de"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Enables strings to be spelled with the phonetic alphabet}
+  spec.description   = %q{Extends ruby String class with to_p method which converst strings to their phonetic alphabet representation.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
