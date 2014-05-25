@@ -1,6 +1,6 @@
 # PhoneticAlphabet
 
-TODO: Write a gem description
+Extends ruby String class with to_p method which converst strings to their phonetic alphabet representation.
 
 ## Installation
 
@@ -18,11 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Just call to_p on a string.
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/phonetic_alphabet/fork )
+1. Fork it ( https://github.com/dnshl/phonetic_alphabet/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
