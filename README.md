@@ -1,4 +1,4 @@
-# PhoneticAlphabet
+# PhoneticAlphabet [![Build Status](https://travis-ci.org/dnshl/phonetic_alphabet.svg)](https://travis-ci.org/dnshl/phonetic_alphabet)
 
 Extends ruby String class with to_p method which converst strings to their phonetic alphabet representation.
 
