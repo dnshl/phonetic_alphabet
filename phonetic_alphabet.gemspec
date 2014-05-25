@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["dennis@dennishall.de"]
   spec.summary       = %q{Enables strings to be spelled with the phonetic alphabet}
   spec.description   = %q{Extends ruby String class with to_p method which converst strings to their phonetic alphabet representation.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/dnshl/phonetic_alphabet"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
